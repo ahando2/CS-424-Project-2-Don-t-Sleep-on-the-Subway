@@ -1,0 +1,13 @@
+name: SubwayLarge
+title: SubwayLarge
+username:
+account: ahando2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5822956
+bundleId: 5665921
+url: https://ahando2.shinyapps.io/SubwayLarge/
+when: 1646911230.94041
+lastSyncTime: 1646911230.94041
+asMultiple: FALSE
+asStatic: FALSE
