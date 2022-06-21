@@ -1,7 +1,9 @@
 # CS 424 Project 2 Don't Sleep on the Subway
  
 the project consist of data processing code and the shiny app.
+
 [Shiny app link](https://ahando2.shinyapps.io/SubwayLarge/)
+
 [More Info](https://sites.google.com/view/ahandowo/projects/project-dont-sleep-on-the-subway)
 
 
