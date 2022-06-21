@@ -1,6 +1,9 @@
 # CS 424 Project 2 Don't Sleep on the Subway
  
 the project consist of data processing code and the shiny app.
+[Shiny app link](https://ahando2.shinyapps.io/SubwayLarge/)
+[More Info](https://sites.google.com/view/ahandowo/projects/project-dont-sleep-on-the-subway)
+
 
 ## Data processing code (Project2_data_splitter.R)
 the purpose the data processing code is to split and get the necessary data from the main data to reduce the size of data and remove unecessary elements.
