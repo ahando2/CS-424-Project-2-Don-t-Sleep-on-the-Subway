@@ -19,5 +19,5 @@ To create interactive visualization of the data and upload it to R Shiny.
 
 ### How to run (locally)
 - Run the Data processing code first Project1_data_splitter.R
-- set the enviroment to be in the working directory by typing `setwd("INSERT_YOURPATH/CS-424-Project-2-Don-t-Sleep-on-the-Subway/SubwayLarge")` in the RStudio terminal
+- set the enviroment to be in the working directory by typing `setwd("INSERT_YOURPATH/CTA-Daily-Entries-Interactive-Visualization/SubwayLarge")` in the RStudio terminal
 - run `runApp()`
