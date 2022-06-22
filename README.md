@@ -1,4 +1,4 @@
-# CS 424 Project 2 Don't Sleep on the Subway
+# CTA Daily Entries Interactive Visualization
  
 the project consist of data processing code and the shiny app.
 
