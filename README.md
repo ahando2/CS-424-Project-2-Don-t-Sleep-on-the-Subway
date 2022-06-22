@@ -11,7 +11,7 @@ the project consist of data processing code and the shiny app.
 the purpose the data processing code is to split and get the necessary data from the main data to reduce the size of data and remove unecessary elements.
 
 ### How to use
-set the enviroment to be in the working directory by typing `setwd("INSERT_YOURPATH/CS-424-Project-2-Don-t-Sleep-on-the-Subway")` in the RStudio terminal
+set the enviroment to be in the working directory by typing `setwd("INSERT_YOURPATH/CTA-Daily-Entries-Interactive-Visualization")` in the RStudio terminal
 run the code in your RStudio
 
 ## shiny app
